@@ -1,0 +1,22 @@
+#heading {
+    font-size: 42px;
+    color: red;
+    text-align: center;
+    margin: 10px;
+}
+#map {
+    height: 700px; 
+    width: 100%
+}
+#distance {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(37, 118, 25);
+    margin: 10px;
+}
+#clicks {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(34, 0, 255);
+    margin: 10px;
+}
